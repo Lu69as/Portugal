@@ -5,3 +5,6 @@ body{
 #rcorners1 {
     border-radius: 25px;
 }
+.mydiv {
+    float: right;
+  }
