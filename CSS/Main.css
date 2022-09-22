@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    
+}
+#rcorners1 {
+    border-radius: 25px;
+}
+tr:nth-child(even) {background-color: bisque;}
+a:link {
+    color: grey;
+    background-color: white;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: grey;
+    background-color: white;
+    text-decoration: none;
+  }  
